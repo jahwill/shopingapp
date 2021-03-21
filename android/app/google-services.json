@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "951766457826",
+    "project_id": "shoppingapp-26f66",
+    "storage_bucket": "shoppingapp-26f66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951766457826:android:2f9cc5de4b38f9174b6dbb",
+        "android_client_info": {
+          "package_name": "com.hireme.shopingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951766457826-jjgcoh40h3318oc5mrph7kb2ao13fpv9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX3hcDLbcTaXRdIz8gZWsQvti8GjTRlMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951766457826-jjgcoh40h3318oc5mrph7kb2ao13fpv9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
