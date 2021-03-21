@@ -341,7 +341,7 @@ class _LoginState extends State<Login> {
           _loading = false;
 
           ///ones there is an error set the loading state
-          ///to false .
+          ///to false
         });
 
         if (e.code == 'user-not-found') {
